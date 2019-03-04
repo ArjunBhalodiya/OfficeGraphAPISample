@@ -1,0 +1,6 @@
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\bin\Debug\netcoreapp2.1\Microsoft.GraphAPI.deps.json
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\bin\Debug\netcoreapp2.1\Microsoft.GraphAPI.dll
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\obj\Debug\netcoreapp2.1\Microsoft.GraphAPI.csprojAssemblyReference.cache
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\obj\Debug\netcoreapp2.1\Microsoft.GraphAPI.csproj.CoreCompileInputs.cache
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\obj\Debug\netcoreapp2.1\Microsoft.GraphAPI.AssemblyInfoInputs.cache
+F:\Dotnet Workspace\MicrosoftGraphAPISample\Microsoft.GraphAPI.Sample\Microsoft.GraphAPI\obj\Debug\netcoreapp2.1\Microsoft.GraphAPI.AssemblyInfo.cs
